@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Michael 👋<br><br>I leverage LLMs for "vibe coding"—using AI as a collaborative partner to accelerate the development of complex systems. I actively contribute to various open-source repositories to continuously refine my capabilities and explore new ways to build software.<br><br>🔭 Currently working on: An AI influencer video generator and autonomous AI agents for quantitative cryptocurrency trading.<br><br>👯 Looking to collaborate on: Scalable AI and ML infrastructure projects.<br><br>🌱 Currently learning: Advanced AI agentic workflows and deploying multi-model API services.<br><br>💬 Ask me about: Implementing AI automation in business operations, algorithmic trading logic, or prompt engineering for software development.<br><br>⚡ Fun fact: I come from a non-traditional tech background managing international agricultural exports, drawing on my experience in business development and enterprise management.
+Hi, I'm Michael 👋<br><br>I leverage LLMs for "vibe coding" using AI as a collaborative partner to accelerate the development of complex systems. I actively contribute to various open-source repositories to continuously refine my capabilities and explore new ways to build software.<br><br>🔭 Currently working on: An AI influencer video generator and autonomous AI agents for quantitative cryptocurrency trading.<br>👯 Looking to collaborate on: Scalable AI and ML infrastructure projects.<br>🌱 Currently learning: Advanced AI agentic workflows and deploying multi-model API services.<br>💬 Ask me about: Implementing AI automation in business operations, algorithmic trading logic, or prompt engineering for software development.<br>⚡ Fun fact: I come from a non-traditional tech background managing international agricultural exports, drawing on my experience in business development and enterprise management.
 
 
 ## 🌐 Socials:
@@ -12,8 +12,11 @@ Hi, I'm Michael 👋<br><br>I leverage LLMs for "vibe coding"—using AI as a co
 ![](https://streak-stats.demolab.com/?user=michaelxer&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=michaelxer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=michaelxer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=michaelxer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=michaelxer&icon=0&color=0)](https://visitcount.itsvg.in)
